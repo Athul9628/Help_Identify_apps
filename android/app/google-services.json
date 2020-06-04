@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769975165013",
+    "firebase_url": "https://remove-china.firebaseio.com",
+    "project_id": "remove-china",
+    "storage_bucket": "remove-china.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769975165013:android:f4ff07280e3adf355fb4dc",
+        "android_client_info": {
+          "package_name": "com.example.removechina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769975165013-v3ccskvn0iv4qer50m6n4f5t43chcrud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.removechina",
+            "certificate_hash": "3c6990c8f42b5dd9b07c46bcdf34fcb6a4a3f58f"
+          }
+        },
+        {
+          "client_id": "769975165013-trable69lrldpjf1tm966otokn2sj3eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9t86-SeuiUdVzUSV7N-s1WPFc4TwpeZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769975165013-trable69lrldpjf1tm966otokn2sj3eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
